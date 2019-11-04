@@ -1,0 +1,31 @@
+[
+	{
+		"nombre": "no me interesa",
+		"categoria":"tell me more",
+		"url":"https://media1.tenor.com/images/1c4f491a80ba304cf26c2821ffd9c1b2/tenor.gif?itemid=5407074"
+	},
+	{
+		"nombre": "michael albur",
+		"categoria":"thats what she said",
+		"url":"https://media1.tenor.com/images/520a217f4eea91149b303a6474ecb32d/tenor.gif?itemid=4822396"
+	},
+	{
+		"nombre": "no me importa",
+		"categoria":"i dont like that",
+		"url":"https://media1.giphy.com/media/4cuyucPeVWbNS/giphy.gif"
+	},
+	{
+		"nombre": "broma",
+		"categoria":"broma",
+		"url":"https://media2.giphy.com/media/36xoN4Pl4MVy/giphy.gif"
+	
+	},
+	{
+		"nombre": "el sin amigos",
+		"categoria":"sin amigos",
+		"url":"http://i.giphy.com/yoJC2i270b1mQvcDdK.gif"
+	
+	}
+]
+
+
